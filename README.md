@@ -64,7 +64,7 @@ print(acf_values)
 ```
 
 ### OUTPUT:
-<img width="1463" height="786" alt="Screenshot 2025-09-01 152328" src="https://github.com/user-attachments/assets/7057b66a-cd35-4514-b53b-d02a4f9251c1" />
+<img width="1176" height="587" alt="Screenshot 2025-09-01 154513" src="https://github.com/user-attachments/assets/54c8199d-a211-40c0-a083-e9e5d5a87c31" />
 
 ### RESULT:
         Thus we have successfully implemented the auto correlation function in python.
